@@ -1,0 +1,1 @@
+C:\Users\Hank\Documents\GitHub\TicTacToeNeuralNetwork\TicTacToeNeuralNetwork\bin\Debug\TicTacToeNeuralNetwork.exe.config
